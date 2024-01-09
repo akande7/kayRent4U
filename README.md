@@ -3,6 +3,7 @@ This project establishes a dynamic system employing AWS services to manage user-
 
 ## Architecture Overview
 The project architecture comprises the following AWS services and components:
+![Architecture Diagram](rent4u.drawio - draw.io - Google Chrome 09_01_2024 15_54_52 (2).png)
 
 ### AWS Services Used
 - **Amazon S3 (Simple Storage Service)**: Hosts the static website files facilitating user interaction.
